@@ -1,0 +1,39 @@
+[
+    {
+      "testCase": 1,
+      "task": "Draft project brief",
+      "column": "To do",
+      "tags": ["Non-Priority", "On track"]
+    },
+    {
+      "testCase": 2,
+      "task": "Schedule kickoff meeting",
+      "column": "To do",
+      "tags": ["Medium", "At risk"]
+    },
+    {
+      "testCase": 3,
+      "task": "Share timeline with teammates",
+      "column": "To do",
+      "tags": ["High", "Off track"]
+    },
+    {
+      "testCase": 4,
+      "task": "[Example] Laptop setup for new hire",
+      "column": "New Requests",
+      "tags": ["Medium priority", "Low effort", "New hardware", "Not Started"]
+    },
+    {
+      "testCase": 5,
+      "task": "[Example] Password not working",
+      "column": "In Progress",
+      "tags": ["Low effort", "Low priority", "Password reset", "Waiting"]
+    },
+    {
+      "testCase": 6,
+      "task": "[Example] New keycard for Daniela V",
+      "column": "Completed",
+      "tags": ["Low effort", "New hardware", "High Priority", "Done"]
+    }
+  ]
+  
